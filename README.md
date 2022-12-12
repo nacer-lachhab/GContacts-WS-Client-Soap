@@ -1,4 +1,6 @@
 # GContacts-WS-Client-Soap
-branch1: webService (java SE+jax-ws+jdbc+mysql) / branch2: client(JEE:servlet et jsp): SOAP Communication Protocole
-Server Jax-ws oon branch GContacts-server.
-Client comunication via Proxy -STUB-, views implemented with jsp API.
+1)- branch GContacts-Server-jaxWS: webService jax-ws with java SE database mysql and communication with jdbc
+
+2)- branch GContacts-JEE-Client with JEE:servlet et jsp -for views-
+
+N-B : screenShots and DataBase on the branch GContacts-JEE-Client.
